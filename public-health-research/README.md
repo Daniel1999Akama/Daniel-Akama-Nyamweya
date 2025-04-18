@@ -25,11 +25,8 @@ How does health informatics support professionals in the surveillance, documenta
 - Presented the second half of the video research presentation.
 
 ## Folder Contents
-- `final-report.pdf` – Full research paper with citations and analysis.
-- `presentation-slides.pptx` – Summary slides presented to the class.
-- `references/` – Folder containing supporting sources and notes.
+- `Infection_research.mp4` – Full video presentation on the topic.
+- `infection_research.pdf` – Summary slides presented to the class with references.
 
-## Author
-*Your Name* – Graduate Student in Health Informatics  
-Email: *your.email@example.com*
+
 
