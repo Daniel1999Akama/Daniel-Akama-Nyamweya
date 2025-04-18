@@ -19,7 +19,7 @@ This project presents the design and development of a disease surveillance archi
 - Docker (for containerized deployment)
 - Synthea (for synthetic data generation)
 - Google collab (for data analysis)
-- Google Looker studio (for data aggregation and visualization)
+- Google Looker studio (for data aggregation and visualization)[View COVID dashboard here](https://lookerstudio.google.com/reporting/07ebb341-5645-4a19-8a38-82a20a0ed71b/page/VvdGF)
 
 ## Challenges Faced
 - Aligning various data standards across systems.
