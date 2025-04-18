@@ -1,3 +1,6 @@
+
+![Cool Logo](VM ARCH.png)
+
 # Public Health Disease Surveillance Architecture
 
 ## Overview
