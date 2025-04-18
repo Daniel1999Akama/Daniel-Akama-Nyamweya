@@ -22,7 +22,7 @@ This project presents the design and development of a disease surveillance archi
 - Google Looker studio (for data aggregation and visualization)[View COVID dashboard here](https://lookerstudio.google.com/reporting/07ebb341-5645-4a19-8a38-82a20a0ed71b/page/VvdGF)
 
 ## Challenges Faced
-- Aligning various data standards across systems.
+- Aligning various technologies to communicate with each other. Apache server was difficult to configure, one has to be extra careful with the configuration files.
 - Ensuring data privacy and security in a multi-source environment. We had put in place custom firewalls to ensure web traffic is filtered properly.
 - Balancing real-time performance with data integrity and scalability.
 
