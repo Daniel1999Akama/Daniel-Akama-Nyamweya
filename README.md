@@ -1,5 +1,5 @@
 
-# Welcome to My GitHub Portfolio
+# Overview
 
 Hi! I'm Daniel Akama Nyamweya, a graduate student at Michigan Technological University specializing in Public and Population Health Informatics. This portfolio showcases key projects I've completed during my academic journey, with a focus on leveraging digital tools and data for improving public health outcomes. If you'd like to see some of my other projects, view my portfolio [here](https://finsapsuite.com/login/member/dashboard/dashboard.php)
 
