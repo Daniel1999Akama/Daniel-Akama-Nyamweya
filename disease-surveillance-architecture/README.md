@@ -29,7 +29,7 @@ This project presents the design and development of a disease surveillance archi
 ## Outcomes
 - Developed a high-level architecture diagram for the system.
 - Demonstrated end-to-end data flow from clinical systems to public health dashboards.
-- Showcased knowledge of modern health informatics tools and standards.
+- Showcased knowledge of modern health informatics tools and standards. This can be seen in the video presentation in the **VM PING AND LINK** PDF.
 
 ## Folder Contents
 - `VM ARCH.png` – Visual representation of the system design.
