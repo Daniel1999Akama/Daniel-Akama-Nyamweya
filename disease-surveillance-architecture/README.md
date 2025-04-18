@@ -1,5 +1,5 @@
 
-![Cool Logo](VM ARCH.png)
+![](VM ARCH.png)
 
 # Public Health Disease Surveillance Architecture
 
