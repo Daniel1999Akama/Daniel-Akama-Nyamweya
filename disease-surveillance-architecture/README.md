@@ -32,11 +32,11 @@ This project presents the design and development of a disease surveillance archi
 - Showcased knowledge of modern health informatics tools and standards.
 
 ## Folder Contents
-- `architecture-diagram.png` – Visual representation of the system design.
-- `documentation/` – Additional notes, flowcharts, and planning documents.
-- `docker-compose.yml` – Sample deployment setup for components (if applicable).
+- `VM ARCH.png` – Visual representation of the system design.
+- `ALL THE OTHER FILES` – Additional notes, flowcharts, and planning documents. The files summarise the whole architecture development, from creating the virtual machines to data aggregation and visualization.
 
 ## Author
 *Daniel Akama Nyamweya* – Graduate Student in Data Science at Michigan technological University. 
+<br/>
 Email: *danyamwe@mtu.edu*
 
