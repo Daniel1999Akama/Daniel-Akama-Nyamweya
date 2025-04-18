@@ -1,5 +1,5 @@
 
-![](VM ARCH.png)
+<img src="VM ARCH.png" width="300">
 
 # Public Health Disease Surveillance Architecture
 
