@@ -1,7 +1,5 @@
-
-<img src="VM ARCH.png" width="300">
-
 # Public Health Disease Surveillance Architecture
+<img src="VM ARCH.png" width="600">
 
 ## Overview
 This project presents the design and development of a disease surveillance architecture tailored for public health monitoring of COVID-19. It aims to support early detection, reporting, and response to potential outbreaks by integrating data from various health information systems.
