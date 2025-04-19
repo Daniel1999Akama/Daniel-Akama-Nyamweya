@@ -22,5 +22,5 @@ A research-based project analyzing the role of informatics in managing emerging 
 ## 📬 Contact
 Feel free to connect with me:
 
-- Email: [your.email@example.com]  
-- LinkedIn: [your-linkedin-url]  
+- Email: [danielakama23@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/danielakamanyamweya/]  
